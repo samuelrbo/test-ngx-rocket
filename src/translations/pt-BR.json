@@ -1,0 +1,16 @@
+{
+  "APP_NAME": "Demo App",
+  "About": "Sobre",
+  "Hello world !": "Olá mundo!",
+  "Home": "Home",
+  "Logged in as": "Autenticado como",
+  "Login": "Login",
+  "Logout": "Logout",
+  "Password": "Senha",
+  "Password is required": "Senha é obrigatória",
+  "Username": "Usuário",
+  "Username is required": "Usuário é obrigatório",
+  "Username or password incorrect.": "Usuário e/ou senha incorreto(s).",
+  "Remember me": "Lembre de mim",
+  "Version": "Versão"
+}
